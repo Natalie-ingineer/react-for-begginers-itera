@@ -1,0 +1,20 @@
+{
+  "name": "react-for-begginers-itera",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Natalie-ingineer/react-for-begginers-itera.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Natalie-ingineer/react-for-begginers-itera/issues"
+  },
+  "homepage": "https://github.com/Natalie-ingineer/react-for-begginers-itera#readme",
+  "keywords": [],
+  "description": ""
+}
